@@ -1,4 +1,5 @@
 ![Casino bot](https://github.com/Animatea/casino-bot-for-discord/blob/main/assets/images/logo.png?raw=true)
+
 ![LICENSE](https://img.shields.io/github/license/Animatea/casino-bot-for-discord)
 ![STARS](https://img.shields.io/github/stars/Animatea/casino-bot-for-discord)
 ![FORKS](	https://img.shields.io/github/forks/Animatea/casino-bot-for-discord)
@@ -8,5 +9,5 @@
 
 
 <div align="center">
-		<a href="discord.gg/KKUFRZCt4f"><img src="https://discordapp.com/api/guilds/744099317836677161/widget.png?style=banner3" alt="" /></a>
+		<a href="discord.gg/KKUFRZCt4f"><img src="https://discordapp.com/api/guilds/744099317836677161/widget.png?style=banner3" alt="" />
 </div>
