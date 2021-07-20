@@ -57,4 +57,4 @@ $ python3 -m src [**flags]
 
 # 📞 **Our discord server**
 
-<a href="discord.gg/KKUFRZCt4f"><img src="https://discordapp.com/api/guilds/744099317836677161/widget.png?style=banner3" alt="" /></a>
+<a href="https://discord.com/invite/KKUFRZCt4f"><img src="https://discordapp.com/api/guilds/744099317836677161/widget.png?style=banner3" alt="" /></a>
