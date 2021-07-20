@@ -9,6 +9,8 @@
 ![RELEASE DATE](https://img.shields.io/github/release-date/Animatea/casino-bot-for-discord)
 ![ALL CONTRIBUTORS](https://img.shields.io/github/contributors/Animatea/casino-bot-for-discord)
 ![COMMITS](https://img.shields.io/github/issues/Animatea/casino-bot-for-discord)
+![COMMITS STATS](https://img.shields.io/github/commit-activity/m/Animatea/casino-bot-for-discord)
+![TOTAL LINES](https://img.shields.io/tokei/lines/github/Animatea/casino-bot-for-discord)
 ![Python3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![DiscordPy](https://img.shields.io/badge/discord.py-1.7+-blue.svg)
 
@@ -54,6 +56,5 @@ $ python3 -m src [**flags]
 | `casino`     | `.casino <bet> [num_of_games=1]`      |Casino, generates lines with sectors depending on <number of games> (last argument, default: 1). |
 
 # 📞 **Our discord server**
-<div align="center">
-		<a href="discord.gg/KKUFRZCt4f"><img src="https://discordapp.com/api/guilds/744099317836677161/widget.png?style=banner3" alt="" /></a>
-</div> 
+
+<a href="https://discord.gg/2B4UvKx"><img src="https://discordapp.com/api/guilds/376697605029101569/widget.png?style=banner3" alt="" /></a>
