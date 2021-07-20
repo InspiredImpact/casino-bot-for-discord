@@ -13,6 +13,14 @@
 ![Python3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![DiscordPy](https://img.shields.io/badge/discord.py-1.7+-blue.svg)
 
+<div align="center">
+ </p>
+        <p><i><b>Casino bot for discord</b></i></p>
+	<p> 
+		<img src="https://github.com/Animatea/casino-bot-for-discord/blob/main/assets/gifs/example.gif?raw=true" alt="" /></a>
+	</p>
+</div>
+
 # ⚙️ **Installation**
 * **Requirements:** discord.py, python-dotenv
 
