@@ -1,4 +1,5 @@
 ![Casino bot](https://media.giphy.com/media/oqZVCd0xI7mBXYJMES/giphy.gif)
+
 ![LICENSE](https://img.shields.io/github/license/Animatea/casino-bot-for-discord)
 ![STARS](https://img.shields.io/github/stars/Animatea/casino-bot-for-discord)
 ![FORKS](https://img.shields.io/github/forks/Animatea/casino-bot-for-discord)
