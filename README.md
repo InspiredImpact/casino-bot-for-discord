@@ -9,7 +9,6 @@
 ![RELEASE DATE](https://img.shields.io/github/release-date/Animatea/casino-bot-for-discord)
 ![ALL CONTRIBUTORS](https://img.shields.io/github/contributors/Animatea/casino-bot-for-discord)
 ![COMMITS](https://img.shields.io/github/issues/Animatea/casino-bot-for-discord)
-![COMMITS STATS](https://img.shields.io/github/commit-activity/w/Animatea/casino-bot-for-discord)
 ![TOTAL LINES](https://img.shields.io/tokei/lines/github/Animatea/casino-bot-for-discord)
 ![Python3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![DiscordPy](https://img.shields.io/badge/discord.py-1.7+-blue.svg)
