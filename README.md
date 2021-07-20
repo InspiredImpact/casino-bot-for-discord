@@ -1,5 +1,5 @@
 <div align="center">
-  ![Casino bot](https://media.giphy.com/media/oqZVCd0xI7mBXYJMES/giphy.gif)
+![Casino bot](https://media.giphy.com/media/oqZVCd0xI7mBXYJMES/giphy.gif)
 </div>
 
 ![LICENSE](https://img.shields.io/github/license/Animatea/casino-bot-for-discord)
