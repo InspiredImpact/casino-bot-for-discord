@@ -1,4 +1,5 @@
 import os
+import sys
 import argparse
 
 import discord
@@ -105,6 +106,13 @@ if __name__ == "__main__":
     namespace = parser.parse_args()  # our parsed argv
     if namespace.mypy_debug:
         # starting mypy check
-        os.system('mypy --strict --config-file ../pyproject.toml ../src/*.py')
+        if len(sys.argv) > 1:
+            # if the bot is launched from a terminal
+            abs_ = ''
+        else:
+            # if the bot is launched from a computer
+            abs_ = '../'
+
+        os.system(f'mypy --strict --config-file {abs_}pyproject.toml {abs_}src/*.py')
 
     bot.run(os.environ.get('bot_token'))
