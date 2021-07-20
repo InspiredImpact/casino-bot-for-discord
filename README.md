@@ -12,7 +12,7 @@
 ![Python3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![DiscordPy](https://img.shields.io/badge/discord.py-1.7+-blue.svg)
 
-# **Installation**
+# ⚙️ **Installation**
 * **Requirements:** discord.py, python-dotenv
 
 * **Note:** `[]` - optional, `<>` - required
@@ -38,7 +38,7 @@ $ pip3 install -r requirements.txt
 ```bash
 $ pip3 install -r requirements.txt
 ```
-#### 4. Start the bot
+# 🚀 **Start the bot**
 ###### Flags:
 | flag         | type  |  defaultv  |                description              |
 |:-------------|:-----:|:----------:|:---------------------------------------:|
@@ -48,7 +48,12 @@ $ pip3 install -r requirements.txt
 $ cd path_to_repo/casino discord bot/src
 $ python3 -m src [**flags]
 ```
-#### 5. Bot commands
+# 🧰 **Bot commands**
 | qualname      |                usage                |                description                                        |
 |:-------------|:-----------------------------------:|:-----------------------------------------------------------------:|
 | `casino`     | `.casino <bet> [num_of_games=1]`      |Casino, generates lines with sectors depending on <number of games> (last argument, default: 1). |
+
+# 📞 **Our discord server**
+<div align="center">
+		<a href="discord.gg/KKUFRZCt4f"><img src="https://discordapp.com/api/guilds/744099317836677161/widget.png?style=banner3" alt="" /></a>
+</div> 
