@@ -55,7 +55,7 @@ async def _casino(
                             with sectors and multiplies the bet.
     :return: None
     """
-    if any((bet is None, bet <= 0)):
+    if bet is None or bet <= 0:
         await ctx.send('Specify the correct bet you want to play!')
 
     elif not 1 <= number_of_games <= 3:
