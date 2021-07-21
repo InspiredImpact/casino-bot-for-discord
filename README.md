@@ -54,7 +54,7 @@ $ pip3 install -r requirements.txt
 |`--mypy_debug`| bool  | False      | Mypy check for all `.py` files in project |
 
 ```bash
-$ cd path_to_repo/casino discord bot/src
+$ cd path_to_repo/casino discord bot
 $ python3 -m src [**flags]
 ```
 # 🧰 **Bot commands**
